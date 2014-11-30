@@ -2,7 +2,6 @@ var gulp = require('gulp'),
 	jade = require('gulp-jade'),
 	sass = require('gulp-sass'),
 	imagemin = require('gulp-imagemin'),
-	html2jade = require('gulp-html2jade'),
 	iconfont = require('gulp-iconfont'),
 	notify = require('gulp-notify');
 
